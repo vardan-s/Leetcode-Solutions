@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vardan-s/vardan/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardan-s/vardan/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vardan-s/vardan/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vardan-s/vardan/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardan-s/vardan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/vardan-s/vardan/tree/master/0344-reverse-string) |
 ## Binary Search
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vardan-s/vardan/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/vardan-s/vardan/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vardan-s/vardan/tree/master/0344-reverse-string) |
 ## Stack
 |  |
