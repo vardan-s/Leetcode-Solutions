@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardan-s/vardan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vardan-s/vardan/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/vardan-s/vardan/tree/master/0485-max-consecutive-ones) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vardan-s/vardan/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vardan-s/vardan/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vardan-s/vardan/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vardan-s/vardan/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vardan-s/vardan/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vardan-s/vardan/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vardan-s/vardan/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardan-s/vardan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -91,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vardan-s/vardan/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vardan-s/vardan/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
