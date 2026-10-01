@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vardan-s/vardan/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vardan-s/vardan/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardan-s/vardan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
