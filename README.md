@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vardan-s/vardan/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vardan-s/vardan/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -121,15 +122,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vardan-s/vardan/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vardan-s/vardan/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vardan-s/vardan/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vardan-s/vardan/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vardan-s/vardan/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vardan-s/vardan/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Quicksort
 |  |
 | ------- |
