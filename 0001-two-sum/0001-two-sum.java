@@ -15,11 +15,8 @@ class Solution {
                 {
                    
                     return new int[]{a, j};
-                                   }
-                                   
+                }        
             }
-           
-
         }  
         return new int[]{};
     }
