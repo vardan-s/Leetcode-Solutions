@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardan-s/vardan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vardan-s/vardan/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Binary Search
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vardan-s/vardan/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vardan-s/vardan/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
