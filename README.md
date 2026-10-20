@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [2235-add-two-integers](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
 | ------- |
