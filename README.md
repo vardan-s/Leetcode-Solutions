@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vardan-s/vardan/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vardan-s/vardan/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vardan-s/vardan/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vardan-s/vardan/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardan-s/vardan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
