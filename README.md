@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vardan-s/vardan/tree/master/0918-maximum-sum-circular-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Stack
 |  |
 | ------- |
