@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vardan-s/vardan/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vardan-s/vardan/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vardan-s/vardan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
