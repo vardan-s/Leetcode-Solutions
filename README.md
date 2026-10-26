@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vardan-s/vardan/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vardan-s/vardan/tree/master/0918-maximum-sum-circular-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
@@ -227,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
