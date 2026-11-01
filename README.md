@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vardan-s/vardan/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2000-reverse-prefix-of-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2000-reverse-prefix-of-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Stack
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2000-reverse-prefix-of-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
