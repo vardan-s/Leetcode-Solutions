@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [3174-clear-digits](https://github.com/vardan-s/Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2000-reverse-prefix-of-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/vardan-s/Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -261,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/vardan-s/Leetcode-Solutions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
