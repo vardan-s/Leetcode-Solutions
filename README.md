@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vardan-s/vardan/tree/master/0918-maximum-sum-circular-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vardan-s/vardan/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vardan-s/vardan/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
