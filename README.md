@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vardan-s/vardan/tree/master/0918-maximum-sum-circular-subarray) |
+| [0962-maximum-width-ramp](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vardan-s/vardan/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0962-maximum-width-ramp](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/vardan-s/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Range Minimum/Maximum Query
 |  |
