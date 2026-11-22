@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2000-reverse-prefix-of-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3174-clear-digits](https://github.com/vardan-s/Leetcode-Solutions/tree/master/3174-clear-digits) |
