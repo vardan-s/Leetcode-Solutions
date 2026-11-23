@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3174-clear-digits](https://github.com/vardan-s/Leetcode-Solutions/tree/master/3174-clear-digits) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/vardan-s/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/vardan-s/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/vardan-s/Leetcode-Solutions/tree/master/3174-clear-digits) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/vardan-s/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vardan-s/vardan/tree/master/0169-majority-element) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/vardan-s/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
